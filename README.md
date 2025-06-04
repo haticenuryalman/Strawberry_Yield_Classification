@@ -107,19 +107,6 @@ A hyperparameter search using 5-fold cross-validation was conducted. Best result
 - Try alternative classifiers: Random Forest, Logistic Regression, XGBoost.
 - Use dimensionality reduction (e.g., PCA) to improve model robustness.
 
----
-
-## 🛠️ How to Run
-
-1. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-2. Launch the notebook:
-```bash
-jupyter notebook Untitled.ipynb
-```
 
 ---
 
